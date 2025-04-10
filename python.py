@@ -8,7 +8,7 @@ if operator == "+":
     c = a + b
 elif operator == "-":
     c = a - b
-elif operator == "*":  # Hier war das Problem
+elif operator == "*":
     c = a * b
 elif operator == "/":
     if b != 0:
